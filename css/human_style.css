@@ -1,0 +1,176 @@
+a
+{
+    text-decoration:none;
+    color: white;
+}
+a:visited
+{
+    color: white;
+}
+a:hover
+{
+    color: white;
+}
+a:active
+{
+    color: white;
+}
+nav
+{
+    margin: 0px 0px 0px 70px;
+    height:70px;
+    background-color:#2b53c2
+}
+nav ul li
+{
+    font-weight: 800;
+    list-style-type: none;
+    float:left;
+    margin:20px 20px 20px 0px;
+}
+nav input
+{
+    float:right;
+    width:250px;
+    height:40px;
+    position: relative;
+    top: 10px;
+    right:200px;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+}
+aside
+{
+    float:left;
+    width:100px;
+    height:100%;
+    position:fixed;
+    background-color:transparent;
+}
+aside div
+{
+    font-weight: 800;
+    white-space:nowrap;
+    font-size: 20px;
+    margin:700px 0px 0px 0px;
+    height:70px;
+    width:100px;
+    transform:rotate(270deg);
+}
+section
+{
+    margin: 0px 70px 0px 70px;
+    padding: 100px 100px 100px 100px;
+    height:2000px;
+    background-color:white;
+    color: #2b53c2;
+}
+section div article
+{
+    float:left;
+    height:300px;
+    width:275px;
+    margin: 10px 10px 60px 10px;
+    background-color:white;
+}
+section div article a image
+{
+    height:300px;
+    width:275px;
+}
+footer
+{
+    color:white;
+    height:425px;
+    background-color:#1c253d;
+    text-align: center;
+}
+footer ul
+{
+    float:right;
+    list-style-type:none;
+    position: relative;
+    top: 50px;
+    right:250px;
+}
+footer ul li
+{
+    font-weight: 1000;
+    font-size:larger;
+    margin: 15px 0px;
+    text-align:left;
+}
+footer small
+{
+    position: relative;
+    top: 350px;
+}
+.main_blue
+{
+    color:#2b53c2;
+    font-size:xx-large;
+    font-weight:1000;
+    margin: 25px 0px 25px 0px;
+    padding : 0px 150px 0px 0px;
+}
+.about_contents
+{
+    color:black;
+    line-height:30px;
+    font-size:15px;
+}
+.staff
+{
+    margin:0px 0px 0px 0px;
+    float:left;
+    width:300px;
+    height:500px;
+}
+.staff1
+{
+    color:#2b53c2;
+    font-size:large;
+    font-weight:1000;
+}
+.staff2
+{
+    color:black;
+    font-size:small;
+
+}
+.con_input{
+    margin-bottom:10px;
+    padding-left:10px;
+    width:500px;
+    height:30px;
+}
+.con_button
+{
+    width:515px;
+    height:40px;
+    background-color:#2b53c2;
+    color:white;
+    border:none;
+    font-size:large;
+    font-weight:1000;
+}
+.art
+{
+    margin: 0px 150px 0px 150px;
+    padding: 100px 100px 100px 100px;
+    height:2000px;
+    background-color:white;
+    width:600px;
+}
+.nwtitle
+{
+    font-size:xx-large;
+    font-weight:1000;
+}
+iframe{
+    height: 425px;
+    width: 750px;
+}
